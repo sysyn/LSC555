@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="actorprofile1.xsl"?>
+
+
+<actorprofile>
+    <actor>
+        <name type="text">Robert Downey Jr.</name>
+        <dob type="date">April 4, 1965</dob>
+        <height type="text">5'9"</height>
+        <films>
+                <film>
+                    <title>The Avengers</title>
+                    <releaseyear>2012</releaseyear>
+                    <role>Iron Man</role>
+                </film>
+                <film>
+                    <title>Iron Man 2</title>
+                    <releaseyear>2010</releaseyear>
+                    <role>Iron Man</role>
+                </film>
+                <film>
+                    <title>Iron Man</title>
+                    <releaseyear>2008</releaseyear>
+                    <role>Iron Man</role>
+                </film>
+                <film>
+                    <title>Sherlock Holmes: A Game of Shadows</title>
+                    <releaseyear>2011</releaseyear>
+                    <role>Sherlock Holmes</role>
+                </film>
+                <film>
+                    <title>Sherlock Holmes</title>
+                    <releaseyear>2009</releaseyear>
+                    <role>Sherlock Holmes</role>
+                </film>
+        
+	</films>
+    </actor>
+    <actor>
+        <name type="text">Chris Evans</name>
+        <dob type="date">June 13, 1981</dob>
+        <height type="text">6'0"</height>
+        <films>
+                <film>
+                    <title>The Avengers</title>
+                    <releaseyear>2012</releaseyear>
+                    <role>Captain America</role>
+                </film>
+                <film>
+                    <title>Captain America: The First Avenger</title>
+                    <releaseyear>2011</releaseyear>
+                    <role>Captain America</role>
+                </film>
+        </films>
+    </actor>
+    <actor>
+        <name type="text">Chris Evans</name>
+        <dob type="date">June 13, 1981</dob>
+        <height type="text">6'0"</height>
+        <films>
+                <film>
+                    <title>The Avengers</title>
+                    <releaseyear>2012</releaseyear>
+                    <role>Captain America</role>
+                </film>
+                <film>
+                    <title>Captain America: The First Avenger</title>
+                    <releaseyear>2011</releaseyear>
+                    <role>Captain America</role>
+                </film>
+        </films>
+    </actor>
+    <actor>
+        <name type="text">Chris Hemsworth</name>
+        <dob type="date">August 11, 1983</dob>
+        <height type="text">6'4"</height>
+        <films>
+                <film>
+                    <title>The Avengers</title>
+                    <releaseyear>2012</releaseyear>
+                    <role>Thor</role>
+                </film>
+                <film>
+                    <title>Thor</title>
+                    <releaseyear>2011</releaseyear>
+                    <role>Thor</role>
+                </film>
+        </films>
+    </actor>
+    <actor>
+        <name type="text">Scarlett Johansson</name>
+        <dob type="date">November 22, 1984</dob>
+        <height type="text">5'4"</height>
+        <films>
+                <film>
+                    <title>The Avengers</title>
+                    <releaseyear>2012</releaseyear>
+                    <role>Black Widow</role>
+                </film>
+                <film>
+                    <title>Iron Man 2</title>
+                    <releaseyear>2010</releaseyear>
+                    <role>Natasha Romanoff</role>
+                </film>
+                <film>
+                    <title>We Bought a Zoo</title>
+                    <releaseyear>2011</releaseyear>
+                    <role>Kelly Foster</role>
+                </film>
+        </films>
+    </actor>
+    <actor>
+        <name type="text">Mark Ruffalo</name>
+        <dob type="date">November 22, 1967</dob>
+        <height type="text">5'8"</height>
+        <films>
+                <film>
+                    <title>The Avengers</title>
+                    <releaseyear>2012</releaseyear>
+                    <role>Hulk</role>
+                </film>
+        </films>
+    </actor>
+    <actor>
+        <name type="text">Jeremy Renner</name>
+        <dob type="date">January 7, 1971</dob>
+        <height type="text">5'9"</height>
+        <films>
+                <film>
+                    <title>The Avengers</title>
+                    <releaseyear>2012</releaseyear>
+                    <role>Hawkeye</role>
+                </film>
+                <film>
+                    <title>Mission Impossible: Ghost Protocol</title>
+                    <releasedate>2011</releasedate>
+                    <role>Brandt</role>
+                </film>
+        </films>
+    </actor>
+</actorprofile>
+
